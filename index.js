@@ -46,6 +46,7 @@ app.post("/news", (req, res) => {
 });
 
 
+
 app.get("/news/search", (req, res) => {
   const search = req.query.search;
 

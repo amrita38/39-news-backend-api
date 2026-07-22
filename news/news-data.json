@@ -284,5 +284,60 @@
     "publishedAt": "2026-07-14",
     "source": "Dashboard",
     "label": "FAKE"
+  },
+  {
+    "id": 27,
+    "title": "Demo news",
+    "img": "https://picsum.photos/id/1041/400/250",
+    "content": "No Content",
+    "author": "Admin",
+    "category": "General",
+    "publishedAt": "2026-07-15",
+    "source": "Dashboard",
+    "label": "FAKE"
+  },
+  {
+    "id": 28,
+    "title": "hello news",
+    "img": "https://picsum.photos/250/150?10",
+    "content": "No Content",
+    "author": "Admin",
+    "category": "General",
+    "publishedAt": "2026-07-15",
+    "source": "Dashboard",
+    "label": "FAKE"
+  },
+  {
+    "id": 29,
+    "title": "news breking",
+    "img": "https://picsum.photos/id/1015/400/250",
+    "content": "No Content",
+    "author": "Admin",
+    "category": "General",
+    "publishedAt": "2026-07-15",
+    "source": "Dashboard",
+    "label": "FAKE"
+  },
+  {
+    "id": 30,
+    "title": "Human ",
+    "img": "https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d",
+    "content": "No Content",
+    "author": "Admin",
+    "category": "General",
+    "publishedAt": "2026-07-15",
+    "source": "Dashboard",
+    "label": "FAKE"
+  },
+  {
+    "id": 31,
+    "title": "hello",
+    "img": "https://picsum.photos/id/1015/400/250",
+    "content": "No Content",
+    "author": "Admin",
+    "category": "General",
+    "publishedAt": "2026-07-15",
+    "source": "Dashboard",
+    "label": "FAKE"
   }
 ]
