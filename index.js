@@ -37,7 +37,6 @@ app.post("/news", (req, res) => {
     source: "Dashboard",
     label: "FAKE",
   };
-
   news.push(newNews);
 
   fs.writeFileSync("./news/news-data.json", JSON.stringify(news, null, 2));
